@@ -12,7 +12,7 @@ java, jsp
 ### Model1?
 ```
 1. JSP가 Controller와 View를 모두 담당 
-2. JavaBean이 Modeel을 담당
+2. JavaBean이 Model을 담당
 ```
 
 ### 기능?
